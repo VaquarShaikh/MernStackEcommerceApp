@@ -1,6 +1,6 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Vaquar Shaikh**, I have created this tutorial to teach MERN Stack for free on YouTube.
+Hi! My name is **Vaquar Shaikh**, I have created a full stack ecommerce based website :)
 
 # Prerequisite
 
